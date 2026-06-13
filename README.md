@@ -134,7 +134,7 @@ Profit Margin = (Profit / Revenue) × 100
 
 ### Main Dashboard
 
-![Dashboard Overview](Screenshots/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ---
 
